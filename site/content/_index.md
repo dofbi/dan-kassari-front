@@ -23,15 +23,7 @@ intro:
 
     Le site web servira à vulgariser les actions des services publics pour unr gestion dans la transparence totale. Il permettra en outre de présenter la Commune à la face du monde, trouver et nouer des partenariats avec d’autres communes ( nationales et internationales), ONG et associations d’où le ciblage en mode B2C pour élargir le champ d’action et s’identifier à tous.
 
-products:
-  - image: img/img_3974-2.jpeg
-    text: >
-      La commune de Dan Kassari a pour mission la conception, la programmation
-      et la mise en œuvre des actions de développement économique, social et
-      culturel, la protection de l’environnement et la valorisation des
-      ressources.
-
-      Le site web servira à vulgariser les actions des services publics pour unr gestion dans la transparence totale. Il permettra en outre de présenter la Commune à la face du monde, trouver et nouer des partenariats avec d’autres communes ( nationales et internationales), ONG et associations d’où le ciblage en mode B2C pour élargir le champ d’action et s’identifier à tous.
+products: []
 values:
   heading: Valeurs
   text: >
