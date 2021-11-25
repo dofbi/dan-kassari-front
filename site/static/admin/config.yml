@@ -80,7 +80,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "En tête", name: heading, widget: string}
               - {label: Texte, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-              file: "site/content/vile/histoire.md/_index.md"
+        - file: "site/content/vile/histoire.md/_index.md"
         label: "Page Histoire"
         name: "histoire"
         fields:
