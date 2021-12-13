@@ -1,6 +1,6 @@
 ---
 title: Histoire et Patrimoine
-image: img/img_3807.jpg
+image: img/img_3784.jpeg
 ---
 Le village de Dankassari a été créé dans les années 1953 par Sharou Kadi. Ressortissant de Tahoua, il exerçait la fonction de gardien dans la société devant tracer la première route traversant la localité. Il s'était installé non loin d'un arbre situé à l'entrée du village. Cet arbre qui traditionnellement s'appelle « Kassari » a donné son nom au village de Dankassari. Le premier arbre a été récemment détruit par la société chargée de réhabiliter la RN1. Toutefois, un autre pied est encore visible presqu'au même emplacement jusqu'à ce jour.
 
