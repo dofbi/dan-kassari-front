@@ -87,3 +87,31 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Titre, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Corps, name: body, widget: markdown}
+      - file: "site/content/mairie/elus.md"
+        label: "Page Élus"
+        name: "elus"
+        fields:
+          - {label: Titre, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Corps, name: body, widget: markdown}
+      - file: "site/content/mairie/conseil.md"
+        label: "Page Conseil"
+        name: "conseil"
+        fields:
+          - {label: Titre, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Corps, name: body, widget: markdown}
+      - file: "site/content/mairie/etatcivil.md"
+        label: "Page État Civil"
+        name: "etatcivil"
+        fields:
+          - {label: Titre, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Corps, name: body, widget: markdown}
+      - file: "site/content/mairie/elections.md"
+        label: "Page Elections"
+        name: "elections"
+        fields:
+          - {label: Titre, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Corps, name: body, widget: markdown}
