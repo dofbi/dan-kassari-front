@@ -1,5 +1,5 @@
 ---
-title: Votre Mairie
+title: 
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
