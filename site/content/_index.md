@@ -1,6 +1,6 @@
 ---
 title: Bienvenue
-subtitle: À la
+subtitle: À la commune de Dankassari
 image: img/img_3845.jpeg
 blurb:
   heading: PRÉSENTATION
