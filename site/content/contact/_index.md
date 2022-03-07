@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/logo2_plan-de-travail-1.jpg
+logo: img/photo-2021-12-21-19-32-27.jpg
 contact_entries:
   - heading: Dankassari, Région de Dosso
     text: RN1 Région de Dosso, Département de Dongodoutchi, Niger
